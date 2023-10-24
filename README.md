@@ -1,5 +1,5 @@
 # MiniBreakout
-Simplified version of Breakout (1976) - Part of an exercise proposed in my Unity engine course (Change Scenes, Canvas and Simples Physics example).
+Simplified version of Breakout (1976) - Part of an exercise proposed in my Unity engine course (change scenes, canvas and simples physics example).
 
 ## Instructions:
 - Use the arrow keys to move.
